@@ -1,3 +1,19 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 piss
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+total piss
+
+How do the diagrams help you visualize the branch structure?
+
+total huge piss
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+total balls
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+total huge balls
